@@ -43,6 +43,8 @@
     <Compile Include="Enums\EnumBase.cs" />
     <Compile Include="Enums\FlagsChangeEventArgs.cs" />
     <Compile Include="Enums\FlagsEnumBase.cs" />
+    <Compile Include="Events\EventBase.cs" />
+    <Compile Include="Events\EventBaseExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Text\StringConversion.cs" />
   </ItemGroup>
