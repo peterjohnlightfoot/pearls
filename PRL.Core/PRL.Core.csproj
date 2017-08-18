@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enums\EnumBase.cs" />
+    <Compile Include="Enums\FlagsChangeEventArgs.cs" />
+    <Compile Include="Enums\FlagsEnumBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Text\StringConversion.cs" />
   </ItemGroup>
